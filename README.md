@@ -1,6 +1,7 @@
 # Vision Context Benchmark
 
-Aim :
+### Aim
+
 In this repo, I will seek the answer to the question :
 ```
   Do deep and other computer vision models check for context in the images?
